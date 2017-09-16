@@ -1,0 +1,32 @@
+.header-img{
+	width: 200px;
+	height: 70px;
+	margin-top: 1%;
+	margin-left: 20%;
+	float: left;
+}
+
+.user-info{
+	width: 200px;
+	height: 70px;
+	margin-top: 1%;
+	margin-left: 20%;
+	float: left;
+	padding-top: 2%;
+}
+
+.block-row{
+	margin-top: 10px;
+}
+
+.body-bg{
+	background: center;
+	background-image: url(../img/login-bg.jpg);
+	background-size: 100%;
+}
+
+hr{
+	height:1px;
+	border-top:1px dashed #000000;
+}
+
